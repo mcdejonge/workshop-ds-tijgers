@@ -1,0 +1,22 @@
+Columns/Variables;Description
+ID;Unique ID of each record
+T_ID;Tiger ID is the unique ID given to each tiger
+T_Gen;"Generation 1= founder tigers or adult tigers; Generation 2 = Subadult tigers"
+T_sex;1=Male /2= Female
+Month;Month of the year January through to December
+Season;"Summer= March to June; Rainy= July to October; Winter= November to Feburary"
+Year;"2009; 10; 11; 12;13;14 years in which data was collected"
+Location;Landmark of the nearest village or commonly known place
+Beat;"reference to the smallest management unit used by the forest department. Beat is an additional reference that i did not use in my reference but could be useful for others for future use.
+(the user will have to get hold of the GIS map of the forest department to overlay it)."
+Prey_code_DV;"w= wildprey; d=domestic prey"
+P_Sp_code;prey species code is related to p_species
+P_species;species killed by tigers
+Age_group;prey age group: Adult, Young, Unknown
+P_Sex_Code;Male / Female/Unknown
+P_Sex;1=Male/2=female/3=unknown
+Remarks;Observations made
+reserve_cl;It’s a code given to reserve_nm
+reserve_nm;Core / Buffer are the two management units that are studied
+2km_OF_Village;2km Buffer around villages. Tiger presence within this area and out side was caliculated.
+250_OF_water;250m buffre around water bodies. Tiger presence within this area and outside was caliculated.
