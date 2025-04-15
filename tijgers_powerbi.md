@@ -3,7 +3,10 @@
 ## Voorbereiding
 
 1. Bekijk de inhoud van het Excel-bestand. Begrijp je wat er in elke kolom staat? Kun je al iets zeggen over het soort dieren dat door tijgers opgegeten wordt?
-2. Importeer het Excel-bestand in PowerBI. TODO: iets preciezer uitleggen.
+2. Importeer het Excel-bestand in PowerBI:
+    1. Klik "import data from Excel".
+    2. Markeer het selectievakje "Brondata".
+    3. Klik op de knop "Load".
 
 ## De eerste grafiek: prooidieren per soort
 
